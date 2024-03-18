@@ -1,5 +1,6 @@
 let path = require("path");
 let fs = require("fs");
+
 //1 path.join
 /* Small Quize-Create 10 folder of Lecture and include in each folder create a readme.md file 
    and in readme.md file write somthin insize

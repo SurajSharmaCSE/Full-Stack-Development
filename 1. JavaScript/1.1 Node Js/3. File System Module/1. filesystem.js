@@ -1,4 +1,6 @@
 const path = require("path"); // this is path module for add dirname path 
+
+
 // ** -  fileSystem ** --
 // files -> Create,read,update,delete
 let fs = require("fs");
@@ -14,6 +16,9 @@ fs.writeFileSync("abc3.txt","I'm hapyy today");
 
 //3 update
 fs.appendFileSync("abc.txt","Why your are happy today an reason");
+
+
+
 
 // ** -  Working with Folder ** --
 // files -> Create,read,update,delete
