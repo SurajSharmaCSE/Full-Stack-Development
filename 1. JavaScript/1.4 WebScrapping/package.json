@@ -1,0 +1,17 @@
+{
+  "name": "1.4-webscrapping",
+  "version": "1.0.0",
+  "description": "1. Request karna  - Use File Module for this \r 2. parse and Extract karna file ko from html files - Use cheerio module for this\r 3. convert inot Desire Fomrate of data , that you had extracted - Use .xls for pdf or different module",
+  "main": "2. WebScrapping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0-rc.12",
+    "request": "^2.88.2"
+  }
+}
